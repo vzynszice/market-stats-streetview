@@ -14,6 +14,7 @@ pip install -r requirements.txt
 
 ### API KEY
 Get a GOOGLE_API_KEY from Google Cloud Services 
+
 GOOGLE_API_KEY=YOUR_KEY_HERE
 
 ## 1. Data Collection
